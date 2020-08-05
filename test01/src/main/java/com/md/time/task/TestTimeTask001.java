@@ -6,5 +6,7 @@ package com.md.time.task;
  * @Date 2020/8/5 10:28
  */
 public class TestTimeTask001 {
+    public static void main(String[] args) {
 
+    }
 }
