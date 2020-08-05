@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a99f5776-4661-47f7-b4e3-42e530528d76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/md/io/FileCopyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/md/io/TestByteBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/md/io/TestFileChannelCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/md/io/TestFileStreamCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/md/map/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/security/random/TestCookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/security/random/TestMD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/security/random/TestNullPointException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/security/random/TestRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/security/random/TestSecureRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/security/random/TestTyrCatchWithResource.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../CommonTools/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\CommonTools\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx64m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eNt5cgPh7E3pOAsmAmVBMxqkck" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SvnProjects/ADMIN_FT_V01R01I01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15301391" />
+    <property name="project.structure.side.proportion" value="0.22632794" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.md.test" />
+      <recent name="com.midea.xml.document" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestFileChannelCopy">
+    <configuration name="TestByteBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.md.io.TestByteBuffer" />
+      <module name="test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.md.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFileChannelCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.md.io.TestFileChannelCopy" />
+      <module name="test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.md.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFileCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.md.io.TestFileCopy" />
+      <module name="test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.md.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.md.map.TestHashMap" />
+      <module name="test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.md.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNullPointException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.security.random.TestNullPointException" />
+      <module name="test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.security.random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestFileChannelCopy" />
+        <item itemvalue="Application.TestByteBuffer" />
+        <item itemvalue="Application.TestFileCopy" />
+        <item itemvalue="Application.TestHashMap" />
+        <item itemvalue="Application.TestNullPointException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">D:\MyData\ex_langqf\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a99f5776-4661-47f7-b4e3-42e530528d76" name="Default Changelist" comment="" />
+      <created>1562318626219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562318626219</updated>
+      <workItem from="1562318627666" duration="3280000" />
+      <workItem from="1573784016303" duration="11651000" />
+      <workItem from="1574921450263" duration="2956000" />
+      <workItem from="1575095020640" duration="4699000" />
+      <workItem from="1576056704684" duration="10000" />
+      <workItem from="1546995839121" duration="4071000" />
+      <workItem from="1594173697435" duration="29255000" />
+      <workItem from="1594797292885" duration="21091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="82" key="#Project_Structure" timestamp="1594173706485">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="320" y="82" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1594173706485" />
+    <state width="441" height="466" key="DebuggerActiveHint" timestamp="1594283587746">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="441" height="466" key="DebuggerActiveHint/0.0.1680.1010@0.0.1680.1010" timestamp="1594283587746" />
+    <state width="1637" height="149" key="GridCell.Tab.0.bottom" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.0.center" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.0.left" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.0.right" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.1.bottom" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.1.center" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.1.left" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.1.right" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.2.bottom" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.2.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.2.center" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.2.center/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.2.left" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.2.left/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state width="1637" height="149" key="GridCell.Tab.2.right" timestamp="1596070409744">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="149" key="GridCell.Tab.2.right/0.0.1680.1010@0.0.1680.1010" timestamp="1596070409744" />
+    <state x="320" y="82" key="SettingsEditor" timestamp="1594276453010">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="320" y="82" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1594276453010" />
+    <state x="544" y="257" width="592" height="496" key="find.popup" timestamp="1595491371238">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="544" y="257" width="592" height="496" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1595491371238" />
+    <state x="214" y="170" key="new project wizard" timestamp="1594626672080">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="214" y="170" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1594626672080" />
+    <state x="496" y="233" key="run.anything.popup" timestamp="1594622857759">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1594622857759" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1595299058987">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1595299058987" />
+  </component>
+</project>
