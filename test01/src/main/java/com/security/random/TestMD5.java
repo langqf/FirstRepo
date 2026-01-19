@@ -1,17 +1,12 @@
 package com.security.random;
 
 
-import com.sun.media.jfxmedia.logging.Logger;
-import org.apache.commons.codec.digest.DigestUtils;
 import sun.misc.BASE64Encoder;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.util.Arrays;
 
 /**
